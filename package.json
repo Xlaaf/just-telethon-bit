@@ -1,0 +1,20 @@
+{
+  "name": "ye",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.21.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "farih",
+  "license": "ISC",
+  "description": "bot telegram",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Xlaaf/just-telethon-bit/new/main"
+  }
+}
