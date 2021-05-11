@@ -1,9 +1,10 @@
 {
   "name": "ye",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "tele.js",
   "dependencies": {
     "axios": "^0.21.1"
+    "telegraf": "^3.38"
   },
   "devDependencies": {},
   "scripts": {
@@ -15,6 +16,6 @@
   "description": "bot telegram",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Xlaaf/just-telethon-bit/new/main"
+    "url": "https://github.com/Xlaaf/just-telethon-bit"
   }
 }
